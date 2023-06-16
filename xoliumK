@@ -82,7 +82,7 @@ getgenv().Xolium = {
             game.StarterGui:SetCore(
                                 "SendNotification",
                                 {
-                                    Title = "prime leaked ya what can i say",
+                                    Title = "bxvlz leaked ya what can i say",
                                     Text = "Script Already Loaded Copied Settings.",
                                     Duration = 1.5
                                 }
@@ -97,8 +97,8 @@ getgenv().Xolium = {
             game.StarterGui:SetCore(
             "SendNotification",
             {
-                Title = "PRIME LEAKED U",
-                Text = "welcome PRIME SONS.", 
+                Title = "BXVLZ LEAKED U",
+                Text = "xolium cracked by bxvlz#0245.", 
                 Duration = 1.5 
             }
             )
