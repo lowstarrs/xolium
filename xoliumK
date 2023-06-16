@@ -33,7 +33,7 @@ getgenv().Xolium = {
             }, 
             Camlock = {
                 ["Enabled"] = true,
-                ["Keybind"] = "t",
+                ["Keybind"] = "q",
                 ["Predict"] = true,
                 ["Prediction"] = 0.1267,
                 ["SmoothnessValue"] = 0.885,
@@ -46,7 +46,7 @@ getgenv().Xolium = {
                 Silent = {
                     ["Visible"] = true,
                     ["Filled"] = true,
-                    ["Size"] = 180,
+                    ["Size"] = 30,
                     ["Thickness"] = 0,
                     ["Transparency"] = 0.25,
                     ["Color"] = Color3.fromRGB(0, 0, 0),
@@ -72,7 +72,7 @@ getgenv().Xolium = {
             },
             Macro = {
                 ["Enabled"] = true,
-                ["Keybind"] = "q", 
+                ["Keybind"] = "u", 
                 ["Type"] = "Normal",
             },
             AutoPrediction = {
@@ -80,8 +80,8 @@ getgenv().Xolium = {
             },
             GunFov = {
                 ["Enabled"] = false,
-                ["DoubleBarrel"] = 100.1,
-                ["Revolver"] = 100.5,
+                ["DoubleBarrel"] = 34,
+                ["Revolver"] = 24,
                 ["Shotgun"] = 35,
                 ["TacticalShotgun"] = 35,
                 ["Smg"] = 25,
